@@ -42,14 +42,18 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
+    <state x="549" y="170" key="FileChooserDialogImpl" timestamp="1613737998021">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="549" y="170" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1613737998021" />
     <state x="279" y="58" key="SettingsEditor" timestamp="1613567030992">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="279" y="58" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1613567030992" />
-    <state x="863" y="240" key="com.intellij.ide.util.TipDialog" timestamp="1613646697494">
+    <state x="863" y="240" key="com.intellij.ide.util.TipDialog" timestamp="1613737891737">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="863" y="240" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1613646697494" />
+    <state x="863" y="240" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1613737891737" />
     <state x="817" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1613569888595">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
